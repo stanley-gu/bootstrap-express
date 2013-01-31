@@ -1,0 +1,10 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "http://twitter.github.com/bootstrap/assets/bootstrap.zip",
+    "jquery": "~1.9.0",
+    "backbone": "~0.9.10",
+    "underscore": "~1.4.3"
+  }
+}
