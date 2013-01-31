@@ -4,6 +4,6 @@ A simple template site using [Bootstrap](http://twitter.github.com/bootstrap/) a
 
 # Installation
 
- #. Clone the repo: `git clone git://github.com/stanley-gu/bootstrap-express.git`
- #. Install server-side dependencies with npm: `cd bootstrap-express && npm install`
- #. Install client-side dependencies with bower: `cd public && bower install`
+1. Clone the repo: `git clone git://github.com/stanley-gu/bootstrap-express.git`
+2. Install server-side dependencies with npm: `cd bootstrap-express && npm install`
+3. Install client-side dependencies with bower: `cd public && bower install`
